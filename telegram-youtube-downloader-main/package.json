@@ -1,0 +1,25 @@
+{
+  "name": "starter-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//NurmuhammadJorayevv/videosyouu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NurmuhammadJorayevv/videosyouu/issues"
+  },
+  "homepage": "https://github.com/NurmuhammadJorayevv/videosyouu#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+"node-telegram-bot-api": "^0.60.0",
+"ytdl-core": "^4.11.5"
+  }
+}
